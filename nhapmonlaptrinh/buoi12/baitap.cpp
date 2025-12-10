@@ -56,4 +56,9 @@ void giatrinhonhat(int arr[], int n) {
 	cout << "Vi tri cua gia tri nho nhat trong mang la: " << index + 1 << endl;
 }
 
-void 
+void soluongnguyento(int arr[], int n) {
+	int count = 0;
+	for (int i = 0; i < n; i++) {
+		if (arr[i]<100)
+	}
+}

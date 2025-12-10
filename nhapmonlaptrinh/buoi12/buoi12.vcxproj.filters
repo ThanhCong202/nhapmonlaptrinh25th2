@@ -21,9 +21,15 @@
     <ClCompile Include="baitap.cpp">
       <Filter>Resource Files</Filter>
     </ClCompile>
+    <ClCompile Include="SoNguyen.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="baitap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="SoNguyen.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

@@ -125,9 +125,11 @@
   <ItemGroup>
     <ClCompile Include="baitap.cpp" />
     <ClCompile Include="buoi12.cpp" />
+    <ClCompile Include="SoNguyen.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="baitap.h" />
+    <ClInclude Include="SoNguyen.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
