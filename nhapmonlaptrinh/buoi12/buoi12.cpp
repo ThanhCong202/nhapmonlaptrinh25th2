@@ -9,4 +9,8 @@ int main()
     int arr[SIZE], n = 0;
     nhap(arr, n);
     xuat(arr, n);
+    sochan(arr, n);
+    lietke(arr, n);
+    giatrilonnhat(arr, n);
+    giatrinhonhat(arr, n);
 }
