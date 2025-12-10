@@ -18,5 +18,13 @@
     <ClCompile Include="buoi12.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="baitap.cpp">
+      <Filter>Resource Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="baitap.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

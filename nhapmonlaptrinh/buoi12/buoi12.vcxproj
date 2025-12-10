@@ -123,7 +123,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="baitap.cpp" />
     <ClCompile Include="buoi12.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="baitap.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
